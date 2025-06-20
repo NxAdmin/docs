@@ -1,0 +1,18 @@
+site_name: NxAdmin
+
+
+theme:
+  name: material
+  palette:
+    - scheme: slate       
+      primary: green
+      accent: light-green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default     
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
